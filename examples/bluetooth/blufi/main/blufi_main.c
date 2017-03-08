@@ -345,3 +345,5 @@ void app_main()
     esp_blufi_register_callbacks(&blufi_callbacks);
     esp_blufi_profile_init();
 }
+
+
